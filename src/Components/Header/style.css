@@ -1,0 +1,15 @@
+header {
+    height: 100px;
+    background: gray;
+}
+
+header h1 {
+    color: #FFFF;
+    text-transform: uppercase; /* todas as letras maiusculas */
+    font-size: 25px;
+}
+
+header h2 {
+    font-size: 20px;
+    text-transform: none
+}
