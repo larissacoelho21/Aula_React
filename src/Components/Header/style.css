@@ -1,15 +1,21 @@
 header {
-    height: 100px;
-    background: gray;
+    height: 150px;
+    background: #195073;
 }
 
 header h1 {
     color: #FFFF;
     text-transform: uppercase; /* todas as letras maiusculas */
-    font-size: 25px;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 40px;
 }
 
 header h2 {
-    font-size: 20px;
+    font-size: 18px;
+    color: #FFFF;
+    position: relative;
+    top: 50px;
     text-transform: none
 }

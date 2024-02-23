@@ -1,0 +1,19 @@
+.buttons, .result {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px;
+    margin-right: 20px;
+    border: 0;
+    background: burlywood;
+    color: #FFFF;
+    cursor: pointer;
+}
+
+.result strong {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
