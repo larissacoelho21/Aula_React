@@ -1,8 +1,12 @@
 import { Header } from './Components/Header'
 import { Contador } from './Components/Contador'
 import { Lista } from './Components/Lista'
+import { Footer } from './Components/Footer'
+import { Banner } from './Components/Banner'
 
 import './App.css'
+
+
 
 function App() {
 
@@ -20,7 +24,10 @@ function App() {
 
         <Contador />
         <Lista />
+        <Banner />
       </main>
+
+      <Footer/>
     </>
   )
 }

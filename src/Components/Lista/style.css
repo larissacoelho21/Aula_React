@@ -1,0 +1,42 @@
+.imagem {
+    display: flex;
+}
+
+
+.content-list {
+    max-width: 500px;
+}
+
+.content-list h1, .content-list p{
+    padding: 15px;
+}
+
+.content-list img {
+    padding: 10px;
+    border: 1px solid rgb(26, 26, 137);
+    margin: 10px;
+}
+
+
+.listas {
+    display: flex;
+    flex-direction: column;
+}
+
+.listas h1{
+    padding: 10px;
+}
+
+.listagem {
+    display: flex;
+    flex-direction: column;border-bottom: 1px solid rgb(182, 180, 180);
+}
+
+.listagem strong, .listagem span {
+    padding: 5px;
+}
+
+.content-listagem {
+    overflow: auto;
+    height: 335px;
+}
