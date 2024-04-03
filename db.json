@@ -1,0 +1,38 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "nome": "Gustavo",
+      "email": "gp67009@gmail.com",
+      "telefone": "14367745636"
+    },
+    {
+      "id": "5a71",
+      "nome": "Gustavo",
+      "email": "vefenergia@gmail.com",
+      "telefone": "11992895877",
+      "createdAT": "2024-03-13T12:12:36.386Z"
+    },
+    {
+      "id": "91fc",
+      "nome": "Gabriel",
+      "email": "paixaogabriel246@gmail.com",
+      "telefone": "1243756424325",
+      "createdAT": "2024-03-13T13:20:23.808Z"
+    },
+    {
+      "id": "b14d",
+      "nome": "",
+      "email": "",
+      "telefone": "",
+      "createAT": "2024-03-15T12:06:56.835Z"
+    }
+  ],
+  "about": [
+    {
+      "id": "1",
+      "title": "Sobre",
+      "descricao": "lorem ipsum lorem ipsum"
+    }
+  ]
+}
